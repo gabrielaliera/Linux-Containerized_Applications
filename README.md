@@ -1,4 +1,4 @@
-# LinuxWorkstation-Containerized_Applications
+# Linux Containerized Applications
 > *Virtualizes Fedora server with Apache, Samba, & File Transfer Protocol containerized using Linux Containers (LXC).*
 
 # What the System Does:
